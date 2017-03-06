@@ -1,12 +1,17 @@
 #include <iostream>
-
 using namespace std;
+
+
 
 int main() {
   cout << "Entry";
   cout << "This is going to be the basic entry point for the code"
+  
+  //Function Calls
     
-  //Addition function
+  int operation();
+  
+  //Operation function
   
   /*
     You type in an operation that you want to do
